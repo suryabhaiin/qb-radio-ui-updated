@@ -48,7 +48,7 @@ Config.RestrictedChannels = {
     }
 }
 
-Config.MaxFrequency = 500
+Config.MaxFrequency = 300
 
 Config.messages = {
     ["not_on_radio"] = "You're not connected to a signal",
